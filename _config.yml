@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Xu, Xu Blog, 徐梦滢的博客, xumengying, 徐梦滢"
 url: "http://reset0514.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/reset0514/reset0514.github.io.git" # you code repository
+github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
